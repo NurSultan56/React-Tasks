@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button-clicked {
+  background-color: rgb(255, 225, 225);
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 20px 0px 0px 20px;
+}
+
+.hint {
+  font-style: italic;
+  border: 1px solid black;
+  width: 110px;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.button {
+  height: 150px;
+}
+
+button {
+  padding: 5px;
+}
+
+.warn {
+  margin-top: 20px;
+  border: 2px solid red;
+  width: 245px;
+  padding: 10px;
+}
