@@ -1,0 +1,18 @@
+body {
+    font-family: Bahnschrift SemiBold;
+}
+
+.personal-info {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 40px
+}
+
+.contacts {
+    font-size: 20px;
+    list-style-type: none;
+}
