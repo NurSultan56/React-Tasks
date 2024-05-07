@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+}
+
+div {
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.input {
+    background-color: #ffe4c4;
+    width: 100%;
+    border: 1px transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+textarea {
+    background-color: #ffe4c4;
+    height: 60px; 
+    border: 1px transparent;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
+button {
+    padding: 5px;
+    width: 100%;
+    background-color: tan;
+    border: 1px transparent;
+    border-radius: 5px;
+}
+
+.card {
+    display: none;
+    width: 500px;
+    margin: 100px auto 50px auto;
+    background-color: #b8e0d2;
+    padding: 15px 0px 15px 15px;
+    border-radius: 20px;
+}
+
+.card p {
+    font-style: italic;
+}
